@@ -1,0 +1,526 @@
+{
+    "textures": [{
+        "image": "hitnutty.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 6940,
+            "h": 3340
+        },
+        "scale": 1,
+        "frames": [
+
+            {
+                "filename": "NUtsBallTrail01.png",
+                "rotated": false,
+                "trimmed": false,
+                "sourceSize": {
+                    "w": 121,
+                    "h": 645
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 121,
+                    "h": 645
+                },
+                "frame": {
+                    "x": 1,
+                    "y": 1,
+                    "w": 121,
+                    "h": 645
+                }
+            },
+            {
+                "filename": "NUtsBallTrail02.png",
+                "rotated": false,
+                "trimmed": false,
+                "sourceSize": {
+                    "w": 121,
+                    "h": 645
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 121,
+                    "h": 645
+                },
+                "frame": {
+                    "x": 124,
+                    "y": 1,
+                    "w": 121,
+                    "h": 645
+                }
+            },
+            {
+                "filename": "NUtsBallTrail08.png",
+                "rotated": false,
+                "trimmed": false,
+                "sourceSize": {
+                    "w": 121,
+                    "h": 645
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 121,
+                    "h": 645
+                },
+                "frame": {
+                    "x": 862,
+                    "y": 1,
+                    "w": 121,
+                    "h": 645
+                }
+            },
+            {
+                "filename": "BatHit01.png",
+                "rotated": false,
+                "trimmed": false,
+                "sourceSize": {
+                    "w": 1386,
+                    "h": 666
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1386,
+                    "h": 666
+                },
+                "frame": {
+                    "x": 985,
+                    "y": 1,
+                    "w": 1386,
+                    "h": 666
+                }
+            },
+            {
+                "filename": "BatHit02.png",
+                "rotated": false,
+                "trimmed": false,
+                "sourceSize": {
+                    "w": 1386,
+                    "h": 666
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1386,
+                    "h": 666
+                },
+                "frame": {
+                    "x": 2373,
+                    "y": 1,
+                    "w": 1386,
+                    "h": 666
+                }
+            },
+            {
+                "filename": "BatHit03.png",
+                "rotated": false,
+                "trimmed": false,
+                "sourceSize": {
+                    "w": 1386,
+                    "h": 666
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1386,
+                    "h": 666
+                },
+                "frame": {
+                    "x": 3761,
+                    "y": 1,
+                    "w": 1386,
+                    "h": 666
+                }
+            },
+            {
+                "filename": "BatHit04.png",
+                "rotated": false,
+                "trimmed": false,
+                "sourceSize": {
+                    "w": 1386,
+                    "h": 666
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1386,
+                    "h": 666
+                },
+                "frame": {
+                    "x": 3761,
+                    "y": 1,
+                    "w": 1386,
+                    "h": 666
+                }
+            },
+            {
+                "filename": "BatHit05.png",
+                "rotated": false,
+                "trimmed": false,
+                "sourceSize": {
+                    "w": 1386,
+                    "h": 666
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1386,
+                    "h": 666
+                },
+                "frame": {
+                    "x": 5149,
+                    "y": 1,
+                    "w": 1386,
+                    "h": 666
+                }
+            },
+            {
+                "filename": "BatHit06.png",
+                "rotated": false,
+                "trimmed": false,
+                "sourceSize": {
+                    "w": 1386,
+                    "h": 666
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1386,
+                    "h": 666
+                },
+                "frame": {
+                    "x": 1,
+                    "y": 669,
+                    "w": 1386,
+                    "h": 666
+                }
+            },
+            {
+                "filename": "BatHit07.png",
+                "rotated": false,
+                "trimmed": false,
+                "sourceSize": {
+                    "w": 1386,
+                    "h": 666
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1386,
+                    "h": 666
+                },
+                "frame": {
+                    "x": 1389,
+                    "y": 669,
+                    "w": 1386,
+                    "h": 666
+                }
+            },
+
+
+            {
+                "filename": "NutBatHit09.png",
+                "rotated": false,
+                "trimmed": false,
+                "sourceSize": {
+                    "w": 1386,
+                    "h": 666
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1386,
+                    "h": 666
+                },
+                "frame": {
+                    "x": 4165,
+                    "y": 669,
+                    "w": 1386,
+                    "h": 666
+                }
+            },
+
+            {
+                "filename": "NutBatHit01.png",
+                "rotated": false,
+                "trimmed": false,
+                "sourceSize": {
+                    "w": 1386,
+                    "h": 666
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1386,
+                    "h": 666
+                },
+                "frame": {
+                    "x": 2777,
+                    "y": 2005,
+                    "w": 1386,
+                    "h": 666
+                }
+            },
+            {
+                "filename": "NutBatHit02.png",
+                "rotated": false,
+                "trimmed": false,
+                "sourceSize": {
+                    "w": 1386,
+                    "h": 666
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1386,
+                    "h": 666
+                },
+                "frame": {
+                    "x": 4165,
+                    "y": 2005,
+                    "w": 1386,
+                    "h": 666
+                }
+            },
+            {
+                "filename": "NutBatHit03.png",
+                "rotated": false,
+                "trimmed": false,
+                "sourceSize": {
+                    "w": 1386,
+                    "h": 666
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1386,
+                    "h": 666
+                },
+                "frame": {
+                    "x": 5553,
+                    "y": 2005,
+                    "w": 1386,
+                    "h": 666
+                }
+            },
+            {
+                "filename": "NutBatHit04.png",
+                "rotated": false,
+                "trimmed": false,
+                "sourceSize": {
+                    "w": 1386,
+                    "h": 666
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1386,
+                    "h": 666
+                },
+                "frame": {
+                    "x": 5553,
+                    "y": 2005,
+                    "w": 1386,
+                    "h": 666
+                }
+            },
+            {
+                "filename": "NutBatHit05.png",
+                "rotated": false,
+                "trimmed": false,
+                "sourceSize": {
+                    "w": 1386,
+                    "h": 666
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1386,
+                    "h": 666
+                },
+                "frame": {
+                    "x": 1,
+                    "y": 2673,
+                    "w": 1386,
+                    "h": 666
+                }
+            },
+            {
+                "filename": "NutBatHit06.png",
+                "rotated": false,
+                "trimmed": false,
+                "sourceSize": {
+                    "w": 1386,
+                    "h": 666
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1386,
+                    "h": 666
+                },
+                "frame": {
+                    "x": 1389,
+                    "y": 2673,
+                    "w": 1386,
+                    "h": 666
+                }
+            },
+            {
+                "filename": "NutBatHit07.png",
+                "rotated": false,
+                "trimmed": false,
+                "sourceSize": {
+                    "w": 1386,
+                    "h": 666
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1386,
+                    "h": 666
+                },
+                "frame": {
+                    "x": 2777,
+                    "y": 2673,
+                    "w": 1386,
+                    "h": 666
+                }
+            },
+            {
+                "filename": "NutBatHit08.png",
+                "rotated": false,
+                "trimmed": false,
+                "sourceSize": {
+                    "w": 1386,
+                    "h": 666
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1386,
+                    "h": 666
+                },
+                "frame": {
+                    "x": 4165,
+                    "y": 2673,
+                    "w": 1386,
+                    "h": 666
+                }
+            },
+            {
+                "filename": "NUtsBallTrail03.png",
+                "rotated": false,
+                "trimmed": false,
+                "sourceSize": {
+                    "w": 121,
+                    "h": 645
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 121,
+                    "h": 645
+                },
+                "frame": {
+                    "x": 5553,
+                    "y": 2673,
+                    "w": 121,
+                    "h": 645
+                }
+            },
+            {
+                "filename": "NUtsBallTrail04.png",
+                "rotated": false,
+                "trimmed": false,
+                "sourceSize": {
+                    "w": 121,
+                    "h": 645
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 121,
+                    "h": 645
+                },
+                "frame": {
+                    "x": 5676,
+                    "y": 2673,
+                    "w": 121,
+                    "h": 645
+                }
+            },
+            {
+                "filename": "NUtsBallTrail05.png",
+                "rotated": false,
+                "trimmed": false,
+                "sourceSize": {
+                    "w": 121,
+                    "h": 645
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 121,
+                    "h": 645
+                },
+                "frame": {
+                    "x": 5799,
+                    "y": 2673,
+                    "w": 121,
+                    "h": 645
+                }
+            },
+            {
+                "filename": "NUtsBallTrail06.png",
+                "rotated": false,
+                "trimmed": false,
+                "sourceSize": {
+                    "w": 121,
+                    "h": 645
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 121,
+                    "h": 645
+                },
+                "frame": {
+                    "x": 5922,
+                    "y": 2673,
+                    "w": 121,
+                    "h": 645
+                }
+            },
+            {
+                "filename": "NUtsBallTrail07.png",
+                "rotated": false,
+                "trimmed": false,
+                "sourceSize": {
+                    "w": 121,
+                    "h": 645
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 121,
+                    "h": 645
+                },
+                "frame": {
+                    "x": 6045,
+                    "y": 2673,
+                    "w": 121,
+                    "h": 645
+                }
+            }
+        ]
+    }],
+    "meta": {
+        "app": "https://www.codeandweb.com/texturepacker",
+        "version": "3.0",
+        "smartupdate": "$TexturePacker:SmartUpdate:0c9a4ee906d02d07e40a4283ba4fe95e:f831ce6972d7f0405914900321e3c5d4:d5574a87d8dc1efe69eb40879afd8922$"
+    }
+}

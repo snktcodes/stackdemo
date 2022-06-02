@@ -1,0 +1,1091 @@
+{
+	"textures": [
+		{
+			"image": "hit.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 6940,
+				"h": 3340
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "BallTrail01.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 645
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 121,
+						"h": 645
+					}
+				},
+				{
+					"filename": "CoffeeBallTrail01.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 645
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 121,
+						"h": 645
+					}
+				},
+				{
+					"filename": "NUtsBallTrail01.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 645
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 121,
+						"h": 645
+					}
+				},
+				{
+					"filename": "BallTrail02.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 645
+					},
+					"frame": {
+						"x": 124,
+						"y": 1,
+						"w": 121,
+						"h": 645
+					}
+				},
+				{
+					"filename": "CoffeeBallTrail02.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 645
+					},
+					"frame": {
+						"x": 124,
+						"y": 1,
+						"w": 121,
+						"h": 645
+					}
+				},
+				{
+					"filename": "NUtsBallTrail02.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 645
+					},
+					"frame": {
+						"x": 124,
+						"y": 1,
+						"w": 121,
+						"h": 645
+					}
+				},
+				{
+					"filename": "BallTrail03.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 645
+					},
+					"frame": {
+						"x": 247,
+						"y": 1,
+						"w": 121,
+						"h": 645
+					}
+				},
+				{
+					"filename": "BallTrail04.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 645
+					},
+					"frame": {
+						"x": 370,
+						"y": 1,
+						"w": 121,
+						"h": 645
+					}
+				},
+				{
+					"filename": "BallTrail05.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 645
+					},
+					"frame": {
+						"x": 493,
+						"y": 1,
+						"w": 121,
+						"h": 645
+					}
+				},
+				{
+					"filename": "BallTrail06.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 645
+					},
+					"frame": {
+						"x": 616,
+						"y": 1,
+						"w": 121,
+						"h": 645
+					}
+				},
+				{
+					"filename": "BallTrail07.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 645
+					},
+					"frame": {
+						"x": 739,
+						"y": 1,
+						"w": 121,
+						"h": 645
+					}
+				},
+				{
+					"filename": "BallTrail08.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 645
+					},
+					"frame": {
+						"x": 862,
+						"y": 1,
+						"w": 121,
+						"h": 645
+					}
+				},
+				{
+					"filename": "CoffeeBallTrail08.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 645
+					},
+					"frame": {
+						"x": 862,
+						"y": 1,
+						"w": 121,
+						"h": 645
+					}
+				},
+				{
+					"filename": "NUtsBallTrail08.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 645
+					},
+					"frame": {
+						"x": 862,
+						"y": 1,
+						"w": 121,
+						"h": 645
+					}
+				},
+				{
+					"filename": "BatHit01.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 985,
+						"y": 1,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "BatHit02.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 2373,
+						"y": 1,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "BatHit03.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 3761,
+						"y": 1,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "BatHit04.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 3761,
+						"y": 1,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "BatHit05.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 5149,
+						"y": 1,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "BatHit06.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 1,
+						"y": 669,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "BatHit07.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 1389,
+						"y": 669,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "BatHit08.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 2777,
+						"y": 669,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "BatHit09.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 4165,
+						"y": 669,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "CoffeeBatHit09.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 4165,
+						"y": 669,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "NutBatHit09.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 4165,
+						"y": 669,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "CoffeeBallTrail03.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 645
+					},
+					"frame": {
+						"x": 5553,
+						"y": 669,
+						"w": 121,
+						"h": 645
+					}
+				},
+				{
+					"filename": "CoffeeBallTrail04.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 645
+					},
+					"frame": {
+						"x": 5676,
+						"y": 669,
+						"w": 121,
+						"h": 645
+					}
+				},
+				{
+					"filename": "CoffeeBallTrail05.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 645
+					},
+					"frame": {
+						"x": 5799,
+						"y": 669,
+						"w": 121,
+						"h": 645
+					}
+				},
+				{
+					"filename": "CoffeeBallTrail06.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 645
+					},
+					"frame": {
+						"x": 5922,
+						"y": 669,
+						"w": 121,
+						"h": 645
+					}
+				},
+				{
+					"filename": "CoffeeBallTrail07.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 645
+					},
+					"frame": {
+						"x": 6045,
+						"y": 669,
+						"w": 121,
+						"h": 645
+					}
+				},
+				{
+					"filename": "CoffeeBatHit01.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 1,
+						"y": 1337,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "CoffeeBatHit02.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 1389,
+						"y": 1337,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "CoffeeBatHit03.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 2777,
+						"y": 1337,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "CoffeeBatHit04.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 2777,
+						"y": 1337,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "CoffeeBatHit05.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 4165,
+						"y": 1337,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "CoffeeBatHit06.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 5553,
+						"y": 1337,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "CoffeeBatHit07.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 1,
+						"y": 2005,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "CoffeeBatHit08.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 1389,
+						"y": 2005,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "NutBatHit01.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 2777,
+						"y": 2005,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "NutBatHit02.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 4165,
+						"y": 2005,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "NutBatHit03.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 5553,
+						"y": 2005,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "NutBatHit04.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 5553,
+						"y": 2005,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "NutBatHit05.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 1,
+						"y": 2673,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "NutBatHit06.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 1389,
+						"y": 2673,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "NutBatHit07.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 2777,
+						"y": 2673,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "NutBatHit08.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1386,
+						"h": 666
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1386,
+						"h": 666
+					},
+					"frame": {
+						"x": 4165,
+						"y": 2673,
+						"w": 1386,
+						"h": 666
+					}
+				},
+				{
+					"filename": "NUtsBallTrail03.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 645
+					},
+					"frame": {
+						"x": 5553,
+						"y": 2673,
+						"w": 121,
+						"h": 645
+					}
+				},
+				{
+					"filename": "NUtsBallTrail04.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 645
+					},
+					"frame": {
+						"x": 5676,
+						"y": 2673,
+						"w": 121,
+						"h": 645
+					}
+				},
+				{
+					"filename": "NUtsBallTrail05.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 645
+					},
+					"frame": {
+						"x": 5799,
+						"y": 2673,
+						"w": 121,
+						"h": 645
+					}
+				},
+				{
+					"filename": "NUtsBallTrail06.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 645
+					},
+					"frame": {
+						"x": 5922,
+						"y": 2673,
+						"w": 121,
+						"h": 645
+					}
+				},
+				{
+					"filename": "NUtsBallTrail07.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 645
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 645
+					},
+					"frame": {
+						"x": 6045,
+						"y": 2673,
+						"w": 121,
+						"h": 645
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0c9a4ee906d02d07e40a4283ba4fe95e:f831ce6972d7f0405914900321e3c5d4:d5574a87d8dc1efe69eb40879afd8922$"
+	}
+}
